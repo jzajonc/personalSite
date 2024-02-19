@@ -48,9 +48,9 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
-  showDate = false
-  showViews = false
-  showLikes = false
+  showDate = true
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = true
@@ -84,8 +84,8 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = true
-  showviews = true
-  showLikes = true
+  showviews = false
+  showLikes = false
   showSummary = false
   showTableOfContents = true
   showCards = true
@@ -119,13 +119,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBR1T8KWqrreUauPbWSAuJNnH-8nNiXXrU"
+  authDomain = "jaropersonalsite.firebaseapp.com"
+  projectId = "jaropersonalsite"
+  storageBucket = "jaropersonalsite.appspot.com"
+  messagingSenderId = "471988535418"
+  appId = "1:471988535418:web:47d5ccac0b175bfcef7bc3"
+  measurementId = "G-LPQGTD4G4N"
 
 [fathomAnalytics]
   # site = "ABC12345"
