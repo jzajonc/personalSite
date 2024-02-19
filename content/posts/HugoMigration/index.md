@@ -6,7 +6,6 @@ date: 2024-02-10
 draft: false
 ---
 
-# The Shift from WordPress to Hugo
 In the ever-evolving world of web development, staying adaptable and efficient is key. Recently, I embarked on a journey to migrate my website from WordPress to Hugo, a modern static site generator. This transition was not merely a change in technology but a strategic move towards greater performance, security, and creativity.
 
 ## Why Hugo?
