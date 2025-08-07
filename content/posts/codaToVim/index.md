@@ -8,6 +8,7 @@ draft: false
 
 I'm excited to share my personal journey of transitioning from Coda, a beloved all-in-one web development tool, to Vim, the time-tested and highly efficient text editor. This transition wasn't merely about switching software; it was about embracing a fundamentally different approach to coding and text editing.
 
+
 ## Why I Switched:
 As a dedicated Coda user, I was initially drawn to its streamlined interface, built-in file management, and comprehensive suite of web development tools. However, as my coding projects and skills advanced, I found myself longing for a more keyboard-driven, efficient way of writing code. That's when Vim, with its legendary efficiency and keyboard-focused approach, piqued my interest. I was using vim already while accessing remote server consoles. It was fairly basic use, but it was pretty nice experience.
 
