@@ -134,6 +134,6 @@ Paste the printed snippet into your tmux.conf below the tpm line, restart any ag
 
 flok is a personal tool that I published because there was no reason not to. The features are the ones I need, macOS is the first-class platform, Linux gets the terminal sidebar without the menu bar, and there is no compatibility promise between versions yet. The README says all of this plainly, and I would rather say it here too than have someone be surprised.
 
-If you run several agents in tmux and have ever left one waiting for permission for twenty minutes, it might be worth a try. If you want to know how it actually works inside, the two-server design, the state machine, why the sidebar uses almost no CPU, I wrote that up separately on the [W4J site](https://w4j.nl/posts/flokdeepdive/).
+If you run several agents in tmux and have ever left one waiting for permission for twenty minutes, it might be worth a try. If you want to know how it actually works inside, the two-server design, the state machine, why the sidebar uses almost no CPU, I wrote that up separately on the [W4J site](https://www.w4j.nl/posts/flokdeepdive/).
 
 {{< github repo="w4jnl/flok" >}}
